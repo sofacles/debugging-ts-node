@@ -9,7 +9,7 @@ Now I can just use the debugger in vs.code and not be annoyed by the fact that m
 
 <img src="./images/screenshot.png" alt="vs code screenshot" />
 
-Thanks to Cecille Muller for (this gist)[https://gist.github.com/cecilemuller/2963155d0f249c1544289b78a1cdd695], but for me: running it in an empty folder with a .ts file, resulted in:
+Thanks to Cecille Muller for [this gist](https://gist.github.com/cecilemuller/2963155d0f249c1544289b78a1cdd695), but for me: running it in an empty folder with a .ts file, resulted in:
 
 ```
 /usr/local/bin/node --nolazy -r ts-node/register/transpile-only driver.ts
